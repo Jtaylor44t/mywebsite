@@ -39,6 +39,7 @@ hr {
 
 p {
     line-height: 2;
+    width: 100%;
 }
 
 a {
@@ -115,12 +116,12 @@ a:hover {
     margin-top: 50px;
 }
 
-.mypic {
-    width: 15%;
-}
-
 .contactmessage {
     margin: 40px auto 60px;
+}
+
+.mypic {
+    width: 15%;
 }
 
 
