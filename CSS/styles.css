@@ -25,6 +25,7 @@ h2 {
     padding-bottom: 10px;
 }
 
+
 h3 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
@@ -123,6 +124,19 @@ a:hover {
 .mypic {
     width: 15%;
 }
+
+.table {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: #46595F;
+}
+
+.Technologies {
+    display: inline-block;
+    text-align: center;
+    font-weight: 100;
+}
+
 
 
 .btn {
