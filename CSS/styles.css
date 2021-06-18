@@ -129,13 +129,14 @@ a:hover {
     font-family: 'Merriweather', serif;
     text-align: center;
     color: #46595F;
+    display: inline-block;
 }
 
-.Technologies {
+/**.Technologies {
     display: inline-block;
     text-align: center;
     font-weight: 100;
-}
+}**/
 
 
 
